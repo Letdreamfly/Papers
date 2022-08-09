@@ -1,5 +1,7 @@
+应用范围：
+在以文本为中心的任务（如表单理解、小票理解和文档视觉问答）和在以图像为中心的任务（如文档图像分类和文档布局分析）。
+
+PaperLists:
 StrucTexT: Structured Text Understanding with Multi-Modal Transformers
-
 LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking
-
 GraphDoc: Multimodal Pre-training Based on Graph Attention Network for Document Understanding
